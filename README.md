@@ -8,7 +8,7 @@
 
 ## UwU Bot:
 Polices an UwU-only, private channel and removes users who comment anything other than 'UwU'
-<br>
+<br><br>
 
 ## Worry Bot
 An emote bot that exclusively for worry-related images/gifs
