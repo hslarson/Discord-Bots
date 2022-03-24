@@ -1,0 +1,11 @@
+{
+	"TOKEN" : "Discord App Token",
+	"GUILD ID" : "Guild ID",
+	"UWU CHANNEL ID" : "UwU Channel",
+	"MAIN CHANNEL ID" : "Main Channel",
+	"WHITELIST" : [
+		"User ID 1",
+		"User ID 2"
+	],
+	"last_update" : 0
+}
