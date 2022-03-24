@@ -11,6 +11,6 @@ Polices an UwU-only, private channel and removes users who comment anything othe
 <br><br>
 
 ## Worry Bot:
-An emote bot that exclusively for worry-related images/gifs
+An emote bot for worry-related images/gifs
 
 <img src="https://i.ibb.co/6BQYD6k/Worry.png" title="Worry Example" alt="Worry Example" />
