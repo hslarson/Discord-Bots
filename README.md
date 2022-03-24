@@ -4,11 +4,11 @@
 	<img src="https://img.shields.io/github/license/hslarson/Discord-Bots" />
 	<img src="https://img.shields.io/badge/Stupidity-94.7%25-green" />
 </span>
-<br><br>
+<br>
 
 ## UwU Bot:
 Polices an UwU-only, private channel and removes users who comment anything other than 'UwU'
-<br><br>
+<br>
 
 ## Worry Bot
 An emote bot that exclusively for worry-related images/gifs
