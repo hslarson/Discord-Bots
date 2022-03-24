@@ -1,7 +1,9 @@
 # Dumb Discord Bots
-<img src="https://img.shields.io/github/last-commit/hslarson/Discord-Bots" />
-<img src="https://img.shields.io/github/license/hslarson/Discord-Bots" />
-<img src="https://img.shields.io/badge/Stupidity-94.7%25-green" />
+<span>
+	<img src="https://img.shields.io/github/last-commit/hslarson/Discord-Bots" />
+	<img src="https://img.shields.io/github/license/hslarson/Discord-Bots" />
+	<img src="https://img.shields.io/badge/Stupidity-94.7%25-green" />
+</span>
 <br><br>
 
 ## UwU Bot:
